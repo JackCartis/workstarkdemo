@@ -14,9 +14,6 @@ body{
     justify-content: space-between;
     height: 48px;
     align-self:center;
-    position: fixed;
-    top: 0px;
-    bottom: 0;
     right: 100px;
     left: 100px;
     border-radius: 30px;
